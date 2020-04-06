@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text Assignment Module 7", "Text Assignment Module 7.csproj", "{3FC1E664-A37F-4D66-A7FD-12BD9424C36D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4B81308D-4884-4E7D-B91D-03A19D09009B} = {4B81308D-4884-4E7D-B91D-03A19D09009B}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment3_Library", "..\Assignment3_Library\Assignment3_Library.csproj", "{4B81308D-4884-4E7D-B91D-03A19D09009B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FC1E664-A37F-4D66-A7FD-12BD9424C36D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FC1E664-A37F-4D66-A7FD-12BD9424C36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FC1E664-A37F-4D66-A7FD-12BD9424C36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FC1E664-A37F-4D66-A7FD-12BD9424C36D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B81308D-4884-4E7D-B91D-03A19D09009B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B81308D-4884-4E7D-B91D-03A19D09009B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B81308D-4884-4E7D-B91D-03A19D09009B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B81308D-4884-4E7D-B91D-03A19D09009B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21FB2F6B-EFE7-4D8B-8E81-A978663ECD7F}
+	EndGlobalSection
+EndGlobal
